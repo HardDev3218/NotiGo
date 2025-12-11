@@ -4,7 +4,7 @@ go 1.25.0
 
 require (
 	github.com/eiannone/keyboard v0.0.0-20220611211555-0d226195f203
-	github.com/gen2brain/beeep v0.11.1
+	github.com/gen2brain/beeep v0.11.2
 	github.com/shirou/gopsutil/v4 v4.25.11
 )
 
