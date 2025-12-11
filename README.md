@@ -7,12 +7,10 @@
 
 <h1>NotiGo 🚨</h1>
 
-![Preview](preview.png)
-
 ### A lightweight, crossplatform download notifier tool. 
-NotiGo is made to be simple and easy!*\
-You want to be notified when your download is finished?
-You want to be notified when your command is finished?
+NotiGo is made to be simple and easy!\
+You want to be notified when your download is finished?\
+You want to be notified when your command is finished?\
 -Then this tool is for you!
 
 ## 📥 [[Download here]](https://github.com/Knuspii/crunchycleaner/releases) <- Click here to download NotiGo!
