@@ -11,9 +11,9 @@
 NotiGo is made to be simple and easy!\
 You want to be notified when your download is finished?\
 You want to be notified when your command is finished?\
--Then this tool is for you!
+**-Then this tool is for you!**
 
-## 📥 [[Download here]](https://github.com/Knuspii/crunchycleaner/releases) <- Click here to download NotiGo!
+## 📥 [[Download here]](https://github.com/Knuspii/notigo/releases) <- Click here to download NotiGo!
 
 ## 🔑 Key features:
 
@@ -27,11 +27,12 @@ Usage:
   NotiGo [option]
 
 Options:
-  -b  manual beep
-  -v  show version
-  -r  refresh rate in seconds
-  -t  threshold in bytes
-  -h  help
+  No Option  run with TUI
+  -b         manual beep
+  -r         refresh rate in seconds
+  -t         threshold in bytes
+  -v         show version
+  -h         help
 ```
 
 ## External Dependencies
